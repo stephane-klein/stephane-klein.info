@@ -34,3 +34,10 @@ $ yarn serve
 ```
 
 Go to http://localhost:9000/
+
+
+## Hosting
+
+- Builded on [netlify.com](https://netlify.com)
+- Hosted on [netlify.com](https://netlify.com)
+- DNS managed on [CloudFlare](https://www.cloudflare.com/)
